@@ -1,0 +1,147 @@
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\bin\x86\Debug\App.xbf
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\bin\x86\Debug\MainPage.xbf
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\bin\x86\Debug\Lab4LocPham.xr.xml
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\bin\x86\Debug\Lab4LocPham.exe
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\bin\x86\Debug\Lab4LocPham.pdb
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\bin\x86\Debug\resources.pri
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\bin\x86\Debug\AppxManifest.xml
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\bin\x86\Debug\Core\AppxManifest.xml
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\bin\x86\Debug\Core\Lab4LocPham.exe
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\bin\x86\Debug\Lab4LocPham.build.appxrecipe
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\bin\x86\Debug\System.Runtime.dll
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\obj\x86\Debug\Lab4LocPham.csproj.AssemblyReference.cache
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\obj\x86\Debug\App.g.i.cs
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\obj\x86\Debug\App.g.cs
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\obj\x86\Debug\MainPage.g.i.cs
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\obj\x86\Debug\MainPage.g.cs
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\obj\x86\Debug\App.xaml
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\obj\x86\Debug\MainPage.xaml
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\obj\x86\Debug\App.xbf
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\obj\x86\Debug\MainPage.xbf
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\obj\x86\Debug\XamlSaveStateFile.xml
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\obj\x86\Debug\Lab4LocPham.csproj.CoreCompileInputs.cache
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\obj\x86\Debug\Lab4LocPham.csproj.CopyComplete
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\obj\x86\Debug\Lab4LocPham.exe
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\obj\x86\Debug\Lab4LocPham.pdb
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\obj\x86\Debug\ResourceHandlingTask.state
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\obj\x86\Debug\priconfig.xml
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\obj\x86\Debug\priconfig.xml.intermediate
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\obj\x86\Debug\unfiltered.layout.resfiles
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\obj\x86\Debug\filtered.layout.resfiles
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\obj\x86\Debug\excluded.layout.resfiles
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\obj\x86\Debug\resources.resfiles
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\obj\x86\Debug\resources.resfiles.intermediate
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\obj\x86\Debug\pri.resfiles
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\obj\x86\Debug\pri.resfiles.intermediate
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\obj\x86\Debug\qualifiers.txt
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\obj\x86\Debug\qualifiers.txt.intermediate
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\obj\x86\Debug\ProjectArchitectures.txt
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424959200000000.json
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\bin\x86\Debug\EmployeeLib.dll
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\bin\x86\Debug\EmployeeLib.pdb
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\bin\x86\Debug\EmployeeLib.pri
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 3\Payroll\Lab4LocPham\obj\x86\Debug\EmployeeLib.pri.xml
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\bin\x86\Debug\App.xbf
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\bin\x86\Debug\MainPage.xbf
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\bin\x86\Debug\Lab4LocPham.xr.xml
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\bin\x86\Debug\Lab4LocPham.exe
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\bin\x86\Debug\Lab4LocPham.pdb
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\bin\x86\Debug\resources.pri
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\bin\x86\Debug\AppxManifest.xml
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\bin\x86\Debug\Core\Lab4LocPham.exe
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\bin\x86\Debug\Lab4LocPham.build.appxrecipe
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\bin\x86\Debug\System.Runtime.dll
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\bin\x86\Debug\EmployeeLib.dll
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\bin\x86\Debug\EmployeeLib.pdb
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\bin\x86\Debug\EmployeeLib.pri
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\obj\x86\Debug\Lab4LocPham.csproj.AssemblyReference.cache
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\obj\x86\Debug\App.g.i.cs
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\obj\x86\Debug\App.g.cs
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\obj\x86\Debug\MainPage.g.cs
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\obj\x86\Debug\App.xaml
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\obj\x86\Debug\MainPage.xaml
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\obj\x86\Debug\App.xbf
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\obj\x86\Debug\MainPage.xbf
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\obj\x86\Debug\Lab4LocPham.csproj.CoreCompileInputs.cache
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\obj\x86\Debug\Lab4LocPham.csproj.CopyComplete
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\obj\x86\Debug\EmployeeLib.pri.xml
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\obj\x86\Debug\Lab4LocPham.exe
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\obj\x86\Debug\Lab4LocPham.pdb
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\obj\x86\Debug\priconfig.xml
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\obj\x86\Debug\resources.resfiles
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\obj\x86\Debug\pri.resfiles
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\obj\x86\Debug\qualifiers.txt
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\melis\Documents\ToMark\Payroll\Lab4LocPham\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424959200000000.json
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\bin\x86\Debug\App.xbf
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\bin\x86\Debug\MainPage.xbf
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\bin\x86\Debug\Lab4LocPham.xr.xml
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\bin\x86\Debug\Lab4LocPham.exe
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\bin\x86\Debug\Lab4LocPham.pdb
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\bin\x86\Debug\resources.pri
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\bin\x86\Debug\AppxManifest.xml
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\bin\x86\Debug\Core\AppxManifest.xml
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\bin\x86\Debug\Core\Lab4LocPham.exe
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\bin\x86\Debug\Lab4LocPham.build.appxrecipe
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\bin\x86\Debug\System.Runtime.dll
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\bin\x86\Debug\EmployeeLib.dll
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\bin\x86\Debug\EmployeeLib.pdb
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\bin\x86\Debug\EmployeeLib.pri
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\obj\x86\Debug\Lab4LocPham.csproj.AssemblyReference.cache
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\obj\x86\Debug\App.g.i.cs
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\obj\x86\Debug\App.g.cs
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\obj\x86\Debug\MainPage.g.i.cs
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\obj\x86\Debug\MainPage.g.cs
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\obj\x86\Debug\App.xaml
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\obj\x86\Debug\MainPage.xaml
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\obj\x86\Debug\App.xbf
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\obj\x86\Debug\MainPage.xbf
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\obj\x86\Debug\XamlSaveStateFile.xml
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\obj\x86\Debug\Lab4LocPham.csproj.CoreCompileInputs.cache
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\obj\x86\Debug\Lab4LocPham.csproj.CopyComplete
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\obj\x86\Debug\EmployeeLib.pri.xml
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\obj\x86\Debug\Lab4LocPham.exe
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\obj\x86\Debug\Lab4LocPham.pdb
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\obj\x86\Debug\ResourceHandlingTask.state
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\obj\x86\Debug\priconfig.xml
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\obj\x86\Debug\priconfig.xml.intermediate
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\obj\x86\Debug\unfiltered.layout.resfiles
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\obj\x86\Debug\filtered.layout.resfiles
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\obj\x86\Debug\excluded.layout.resfiles
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\obj\x86\Debug\resources.resfiles
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\obj\x86\Debug\resources.resfiles.intermediate
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\obj\x86\Debug\pri.resfiles
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\obj\x86\Debug\pri.resfiles.intermediate
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\obj\x86\Debug\qualifiers.txt
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\obj\x86\Debug\qualifiers.txt.intermediate
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\obj\x86\Debug\ProjectArchitectures.txt
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424959200000000.json

@@ -1,0 +1,2 @@
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\EmployeeLib\EmployeeLib.csproj;x86
+C:\PC utilities\Study files\.First year term 2\.PROG1224\Labs\Lab 4\Payroll\Lab4LocPham\Lab4LocPham.csproj;x86

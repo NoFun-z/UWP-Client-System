@@ -1,0 +1,67 @@
+﻿<Page
+    x:Class="Lab4LocPham.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Lab4LocPham"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <TextBox x:ConnectionId='2' x:Name="txtNameSin" HorizontalAlignment="Left" Margin="524,139,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Height="42" Width="216" PlaceholderText="Name/SIN"                              TabIndex="1"/>
+        <ListView x:ConnectionId='3' x:Name="lvEmployees" Margin="308,199,760,561"                                                 TabIndex="3">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <RelativePanel>
+                        <TextBlock Text="{Binding}" Margin="10,0,0,20"/>
+
+                    </RelativePanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Button x:ConnectionId='4' x:Name="btnSearch" Content="Search" Margin="308,805,0,0" VerticalAlignment="Top" Height="41" Width="97"                      TabIndex="4"/>
+        <TextBlock x:ConnectionId='5' x:Name="txtEmployeeInfo" HorizontalAlignment="Left" Margin="308,566,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="171" Width="316"/>
+        <TextBox x:ConnectionId='6' x:Name="txtWage" HorizontalAlignment="Left" Margin="1135,610,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" PlaceholderText="Y/M wage" Width="115" TextAlignment="Center" TabIndex="8"/>
+        <TextBox x:ConnectionId='7' x:Name="txt2ndOption" HorizontalAlignment="Left" Margin="691,705,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" PlaceholderText="HR/SA/TS" TextAlignment="Center" TabIndex="9"/>
+        <TextBox x:ConnectionId='8' x:Name="txt3rdOption" HorizontalAlignment="Left" Margin="917,705,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" PlaceholderText="WV/EX" Width="82" TextAlignment="Center" TabIndex="10"/>
+        <Button x:ConnectionId='9' x:Name="btnUpdate" Content="Submit Changes" Margin="888,805,0,0" VerticalAlignment="Top" Height="41" Width="130"                         TabIndex="11"/>
+        <ComboBox x:ConnectionId='10' x:Name="cboEmpTypes" Margin="308,144,0,0" Width="134"                                                 TabIndex="0">
+            <ComboBoxItem Content="Salaried"/>
+            <ComboBoxItem Content="Hourly"/>
+            <ComboBoxItem Content="Sales"/>
+            <ComboBoxItem Content="Manager"/>
+        </ComboBox>
+        <TextBox x:ConnectionId='11' x:Name="txtLastName" HorizontalAlignment="Center" Margin="0,610,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" PlaceholderText="Last Name" TextAlignment="Center" TabIndex="6"/>
+        <TextBox x:ConnectionId='12' x:Name="txtFirstName" HorizontalAlignment="Left" Margin="691,610,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" PlaceholderText="First Name" TextAlignment="Center" TabIndex="5"/>
+        <TextBlock x:ConnectionId='13' x:Name="txtFname" HorizontalAlignment="Left" Margin="698,570,0,0" Text="First Name" TextWrapping="Wrap" VerticalAlignment="Top" TextAlignment="Center"/>
+        <TextBlock x:ConnectionId='14' x:Name="txtLname" HorizontalAlignment="Center" Margin="0,570,0,0" Text="Last Name" TextWrapping="Wrap" VerticalAlignment="Top" TextAlignment="Center"/>
+        <TextBlock x:ConnectionId='15' x:Name="txtTotalWage" HorizontalAlignment="Left" Margin="1091,570,0,0" Text="Yearly/Monthly/Bi-Monthly wage" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock x:ConnectionId='16' x:Name="txt2ndOp" HorizontalAlignment="Left" Margin="663,665,0,0" Text="HRate/Allowance/Sales" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock x:ConnectionId='17' x:Name="txt3rdOp" HorizontalAlignment="Left" Margin="888,665,0,0" Text="WorkVolume/Expenses" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <DatePicker x:ConnectionId='18' x:Name="dtDatePicker" Margin="0,144,0,0" VerticalAlignment="Top" HorizontalAlignment="Center" TabIndex="2"/>
+        <TextBlock x:ConnectionId='19' x:Name="txtCurrentFname" HorizontalAlignment="Left" Margin="1510,50,0,0" Text="CurrentFirstName" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock x:ConnectionId='20' x:Name="txtCurrentSin" HorizontalAlignment="Left" Margin="1510,92,0,0" Text="CurrentSIN" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBox x:ConnectionId='21' x:Name="txtSIN" HorizontalAlignment="Left" Margin="1135,705,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" PlaceholderText="SIN" TextAlignment="Center" Width="115" TabIndex="7"/>
+        <TextBlock x:ConnectionId='22' x:Name="txtSin" HorizontalAlignment="Left" Margin="1161,665,0,0" Text="Sin" TextWrapping="Wrap" VerticalAlignment="Top" TextAlignment="Center" Width="63"/>
+        <Button x:ConnectionId='23' x:Name="btnAddEmps" Content="Add New Employee" Margin="1111,805,0,0" VerticalAlignment="Top" Height="41" Width="163"                          TabIndex="12"/>
+        <TextBlock x:ConnectionId='24' x:Name="txtPayPeriod" HorizontalAlignment="Left" Margin="1193,199,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Height="320" Width="693"/>
+        <TextBlock HorizontalAlignment="Left" Margin="1193,146,0,0" Text="Current Pay period" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <ListView x:ConnectionId='25' x:Name="lvHourlyPayPeriod" Margin="1342,626,62,254"                                                       TabIndex="13">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <RelativePanel>
+                        <TextBlock Text="{Binding}" Margin="10,0,0,20"/>
+
+                    </RelativePanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <TextBlock HorizontalAlignment="Left" Margin="1544,579,0,0" Text="Hourly Employees" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBox x:ConnectionId='26' x:Name="txtHoursWorked" HorizontalAlignment="Left" Margin="1566,847,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" PlaceholderText="Hours" TabIndex="14"/>
+        <TextBlock HorizontalAlignment="Left" Margin="1455,848,0,0" Text="Hours worked: " TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <Button x:ConnectionId='27' x:Name="btnHoursWorked" Content="Update" Margin="1654,847,0,0" VerticalAlignment="Top"                              TabIndex="15"/>
+
+    </Grid>
+</Page>
+
